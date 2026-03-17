@@ -153,3 +153,7 @@ with col2:
                 """, unsafe_allow_html=True)
     else:
         st.info("👈 Fill out the details on the left and click the button to generate your personalized interactive report and wellness advice.")
+
+st.markdown("---")
+st.write("Developed with ❤️ by **Yashika Pandey**")
+st.write("[View my GitHub Portfolio](https://github.com/pyashika54-sudo)")
